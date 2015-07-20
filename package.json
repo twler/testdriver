@@ -4,6 +4,10 @@
   "engines": {
     "node": "0.10.x"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/twler/testdriver.git"
+  },
   "description": "A simple webdriver to visit pages, pause, and test for proper visuals",
   "main": "server.coffee",
   "scripts": {
